@@ -1,5 +1,7 @@
 # starling-1p-challenge
 
+A quick hacked-together (31st Dec after a Baileys.. 🥃) script for Starling Bank customers to have something similar to [Monzos penny challenge](https://monzo.com/blog/2019/04/10/1p-savings-challenge-monzo).
+
 ## How to build your own....
 
 Requirements:
