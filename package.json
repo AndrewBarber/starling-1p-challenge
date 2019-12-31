@@ -1,0 +1,24 @@
+{
+  "name": "starling-1p-challenge",
+  "version": "0.0.1",
+  "description": "Starling Bank 1p Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starling",
+    "bank",
+    "1p",
+    "challenge",
+    "saving"
+  ],
+  "author": "Andrew A. Barber",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "starling-developer-sdk": "^1.0.0",
+    "uuid": "^3.3.3"
+  }
+}
