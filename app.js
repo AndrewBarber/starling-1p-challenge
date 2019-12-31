@@ -1,7 +1,9 @@
 const Moment = require("moment");
 const Starling = require("starling-developer-sdk");
 const uuidv1 = require("uuid/v1");
-require("dotenv").config();
+const path = require("path");
+
+require("dotenv").config({ path: path.join(__dirname, ".env") });
 
 const dayOfYear = Moment().dayOfYear();
 const uuid = uuidv1();
